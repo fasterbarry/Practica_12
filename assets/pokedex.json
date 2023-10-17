@@ -1,0 +1,190 @@
+[
+    {
+      "name": "Bulbasaur",
+      "type": ["Planta", "Veneno"]
+    },
+    {
+      "name": "Ivysaur",
+      "type": ["Planta", "Veneno"]
+    },
+    {
+      "name": "Venusaur",
+      "type": ["Planta", "Veneno"]
+    },
+    {
+      "name": "Charmander",
+      "type": ["Fuego"]
+    },
+    {
+      "name": "Charmeleon",
+      "type": ["Fuego"]
+    },
+    {
+      "name": "Charizard",
+      "type": ["Fuego", "Volador"]
+    },
+    {
+      "name": "Squirtle",
+      "type": ["Agua"]
+    },
+    {
+      "name": "Wartortle",
+      "type": ["Agua"]
+    },
+    {
+      "name": "Blastoise",
+      "type": ["Agua"]
+    },
+    {
+      "name": "Caterpie",
+      "type": ["Bicho"]
+    },
+    {
+      "name": "Metapod",
+      "type": ["Bicho"]
+    },
+    {
+      "name": "Butterfree",
+      "type": ["Bicho", "Volador"]
+    },
+    {
+      "name": "Weedle",
+      "type": ["Bicho", "Veneno"]
+    },
+    {
+      "name": "Kakuna",
+      "type": ["Bicho", "Veneno"]
+    },
+    {
+      "name": "Beedrill",
+      "type": ["Bicho", "Veneno"]
+    },
+    {
+      "name": "Pidgey",
+      "type": ["Normal", "Volador"]
+    },
+    {
+      "name": "Pidgeotto",
+      "type": ["Normal", "Volador"]
+    },
+    {
+      "name": "Pidgeot",
+      "type": ["Normal", "Volador"]
+    },
+    {
+      "name": "Rattata",
+      "type": ["Normal"]
+    },
+    {
+      "name": "Raticate",
+      "type": ["Normal"]
+    },
+    {
+      "name": "Spearow",
+      "type": ["Normal", "Volador"]
+    },
+    {
+      "name": "Fearow",
+      "type": ["Normal", "Volador"]
+    },
+    {
+      "name": "Ekans",
+      "type": ["Veneno"]
+    },
+    {
+      "name": "Arbok",
+      "type": ["Veneno"]
+    },
+    {
+      "name": "Pikachu",
+      "type": ["Eléctrico"]
+    },
+    {
+      "name": "Raichu",
+      "type": ["Eléctrico"]
+    },
+    {
+      "name": "Sandshrew",
+      "type": ["Tierra"]
+    },
+    {
+      "name": "Sandslash",
+      "type": ["Tierra"]
+    },
+    {
+      "name": "Nidoran♀",
+      "type": ["Veneno"]
+    },
+    {
+      "name": "Nidorina",
+      "type": ["Veneno"]
+    },
+    {
+      "name": "Nidoqueen",
+      "type": ["Veneno", "Tierra"]
+    },
+    {
+      "name": "Nidoran♂",
+      "type": ["Veneno"]
+    },
+    {
+      "name": "Nidorino",
+      "type": ["Veneno"]
+    },
+    {
+      "name": "Nidoking",
+      "type": ["Veneno", "Tierra"]
+    },
+    {
+      "name": "Clefairy",
+      "type": ["Hada"]
+    },
+    {
+      "name": "Clefable",
+      "type": ["Hada"]
+    },
+    {
+      "name": "Vulpix",
+      "type": ["Fuego"]
+    },
+    {
+      "name": "Ninetales",
+      "type": ["Fuego"]
+    },
+    {
+      "name": "Jigglypuff",
+      "type": ["Normal", "Hada"]
+    },
+    {
+      "name": "Wigglytuff",
+      "type": ["Normal", "Hada"]
+    },
+    {
+      "name": "Zubat",
+      "type": ["Veneno", "Volador"]
+    },
+    {
+      "name": "Golbat",
+      "type": ["Veneno", "Volador"]
+    },
+    {
+      "name": "Oddish",
+      "type": ["Planta", "Veneno"]
+    },
+    {
+      "name": "Gloom",
+      "type": ["Planta", "Veneno"]
+    },
+    {
+      "name": "Vileplume",
+      "type": ["Planta", "Veneno"]
+    },
+    {
+      "name": "Paras",
+      "type": ["Bicho", "Planta"]
+    },
+    {
+      "name": "Parasect",
+      "type": ["Bicho", "Planta"]
+    }
+  ]  
